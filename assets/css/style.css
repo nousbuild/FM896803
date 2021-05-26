@@ -66,6 +66,10 @@ a {
     font-size: 0;
     overflow: hidden;
 }
+.logo {
+    width: 60px;
+    height: 60px;
+}
 a:focus, img:focus, button:focus, .btn:focus {
     outline: none;
 }
@@ -276,9 +280,9 @@ footer[role="footer"] ul[role="social-icons"] > li > a {
     display: block;
     width: 42px;
     height: 42px;
-    background-color: #bbbbbb;
+    background-color: #1C2C3B;
     color: #FFF;
-    line-height: 42px;
+    line-height: 40px;
     font-size: 20px;
     border-radius: 100%;
     text-align: center
@@ -397,7 +401,7 @@ section.blog-content figure .post-date span {
 section.blog-content article {
     font-size: 21px;
     line-height: 30px;
-    color: #FFF;
+    color: #F05554;
     font-weight: 800;
     padding-left: 42px;
     padding-top: 33px;
@@ -673,9 +677,16 @@ color:#404040;
     background-color: #ff5c5c
 }
 .big-qr-code {
-    margin: 50px 20px 0 0;
-    width: 300px;
-    height: 300px;
-    float: right;
-    display: flex;
+    width: 200px;
+    height: 200px;
+}
+.highlight1 {
+    color: #fb5353;
+    font-weight: 800;
+    font-size: 18px;
+    padding-top: 3px;
+}
+.highlight2 {
+    color: #FF7059;
+    font-weight: 600;
 }
