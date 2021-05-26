@@ -84,11 +84,8 @@ text-shadow:none;
     color: #fff;
     text-shadow: none;
 }
-@font-face {
-    font-family: 'Open Sans', sans-serif;
-}
-/*===== Header ===*/
 
+/*===== Header ===*/
 header[role="header"] {
     padding-top: 80px;
     padding-bottom: 39px
@@ -203,8 +200,8 @@ header[role="header"] nav #menu-button.open span:nth-child(3) {
     -o-transform: rotate(-135deg);
     transform: rotate(-135deg);
 }
-/*===== main ===*/
 
+/*===== main ===*/
 main[role="main-home-wrapper"], main[role="main-inner-wrapper"] {
     padding-bottom: 90px
 }
@@ -232,8 +229,8 @@ main[role="main-home-wrapper"] article[role="pge-title-content"] p, main[role="m
     line-height: 30px;
     color: #454545
 }
-/*===== footer ===*/
 
+/*===== footer ===*/
 footer[role="footer"] {
     background-color: #FFF;
     padding-top: 100px;
@@ -297,8 +294,8 @@ footer[role="footer"] .copy-right {
     line-height: 13px;
     color: #9c9c9c
 }
-/*===== About ===*/
 
+/*===== About ===*/
 main[role="main-inner-wrapper"] .about-content {
     background-color: #fb5353;
     padding-top: 57px;
@@ -362,8 +359,8 @@ main[role="main-inner-wrapper"] .thumbnails-pan section figure:hover img, sectio
 main[role="main-inner-wrapper"] .thumbnails-pan section figure:hover figcaption {
     bottom: 0;
 }
-/*===== Blog ===*/
 
+/*===== Blog ===*/
 article[role="pge-title-content"].blog-header {
     padding-bottom: 218px
 }
@@ -494,8 +491,8 @@ color:#404040;
 .contat-from-wrapper input[type="submit"]:hover {
     background-color: #f8524e
 }
-/*== Work Details ==*/
 
+/*== Work Details ==*/
 .work-details, .blog-details {
     padding: 0 69px;
     margin-top: 73px
@@ -539,8 +536,8 @@ color:#404040;
 .work-images li {
     margin-bottom: 50px
 }
-/*== Blog Details ==*/
 
+/*== Blog Details ==*/
 .bog-header {
     padding-bottom: 62px
 }
@@ -689,4 +686,32 @@ color:#404040;
 .highlight2 {
     color: #FF7059;
     font-weight: 600;
+}
+
+/*== Scrollbar ==*/
+::-webkit-scrollbar {
+	background-color: transparent;
+	width: 6px;
+	height: 3px;
+	background-clip: padding-box;
+}
+
+::-webkit-scrollbar-track {
+	background-color: #F5F5F5;
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-button {
+	height: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background-image: -webkit-gradient(linear, left bottom, left top,
+			color-stop(0.33, #406587),
+			color-stop(0.66, #406587));
+}
+
+::-webkit-scrollbar-corner {
+	background-color: transparent;
 }
