@@ -2,8 +2,6 @@
 
 ![FM896903](https://img.shields.io/badge/FM896903-楼上看风景的人-F05554)
 
-<img src="https://travis-ci.org/typelift/Swiftz.svg?branch=master" alt="Build Status" />
-
 <img src='favicon.png' align='right' alt='Logo'>
 
 ### 我是摩西
