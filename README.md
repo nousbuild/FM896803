@@ -1,14 +1,19 @@
-# FM896903 楼上看风景的人
+<p align="center">
+ <img width="100px" src="favicon.png" align="center" alt="Github Avatar" />
+ <h2 align="center">楼上看风景的人</h2>
+ <p align="center">FM896803 主播：摩西不摩登</p>
+</p>
+<p align="center">
+  <img alt="fm" src="https://img.shields.io/badge/FM896903-楼上看风景的人-F05554.svg?style=flat">
+  <img alt="oss" src="https://img.shields.io/badge/github-page-75339B.svg?style=flat">
+  <img alt="build" src="https://img.shields.io/badge/build-passing-4BC51D.svg?style=flat">
+</p>
 
-![FM896903](https://img.shields.io/badge/FM896903-楼上看风景的人-F05554)
+### 1. 我是摩西
 
-<img src='favicon.png' align='right' alt='Logo'>
+我只是个过客，将那些或喜或悲的人生故事看过之后再讲给你听，你把你的耳朵交给我，我把我的心赋予你。
 
-### 我是摩西
-
-我只是个过客，将那些或喜或悲的人生故事看过之后再讲给你听，把你的耳朵交给我，我把我的心赋予你。
-
-### FM896903
+### 2. FM896903
 
 我是 FM896803 楼上看风景的人的主播，摩西不摩登。
 
